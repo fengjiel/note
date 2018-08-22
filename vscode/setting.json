@@ -43,4 +43,25 @@
     "git.autofetch": true,
     "workbench.activityBar.visible": true,
     "search.followSymlinks": false,
+    "beautify.config": {
+        "tab_size": 4,
+        "indent_with_tabs": true
+    },
+    "beautify.language": {
+        "js": {
+            "type": [],
+            "filename": [
+                ".jshintrc",
+                ".jsbeautify"
+            ]
+        },
+        "css": [
+            "css",
+            "scss"
+        ],
+        "html": [
+            "htm",
+            "html"
+        ]
+    },
 }
